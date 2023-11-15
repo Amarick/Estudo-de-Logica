@@ -1,4 +1,4 @@
-# Soluções de Lógica de Programação em Portugol e Java
+# Soluções de Lógica de Programação em varias linguagens
 
 Este repositório é dedicado a compilar soluções de lógica de programação em pseudocódigos escritos em Portugol, bem como agora em Java. Aqui, você encontrará uma coleção de soluções para problemas comuns de programação, incluindo busca, ordenação, processamento de strings e muito mais. Todos os pseudocódigos foram escritos de forma clara e concisa para facilitar a compreensão dos conceitos subjacentes à lógica de programação.
 
@@ -9,6 +9,9 @@ O Portugol é uma linguagem de programação de alto nível, desenvolvida especi
 
 ### Java
 Java é uma linguagem de programação amplamente utilizada no mundo da computação. Aqui, também adicionamos soluções em Java para os problemas de lógica de programação. Java oferece recursos avançados e é amplamente empregado em desenvolvimento de aplicativos, tornando-o uma escolha valiosa para aprimorar suas habilidades de programação.
+
+### C
+A linguagem C é uma linguagem de programação de nível médio, desenvolvida por Dennis Ritchie nos anos 70. Conhecida por sua eficiência e poder de manipulação de hardware, é amplamente utilizada em sistemas operacionais, compiladores e software de baixo nível. Sua sintaxe influenciou muitas linguagens modernas, e sua abordagem procedural facilita a criação de programas eficientes e rápidos.
 
 ## Conteúdo do Repositório
 
