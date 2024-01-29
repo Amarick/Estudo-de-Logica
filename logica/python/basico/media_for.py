@@ -1,7 +1,7 @@
 media = 0 
 
 for i in range (1,5):
-   nota =float(input(f"Digite a nota da p{i}: "))
+   nota = float(input(f"Digite a nota da p{i}: "))
   
    media = media + nota
 
