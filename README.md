@@ -4,9 +4,6 @@ Este repositório é dedicado a compilar soluções de lógica de programação 
 
 ## Linguagens Utilizadas
 
-### Portugol
-O Portugol é uma linguagem de programação de alto nível, desenvolvida especificamente para ensinar lógica de programação de maneira acessível e intuitiva. Com sua sintaxe simples e direta, o Portugol é uma escolha ideal para iniciantes em programação ou para aqueles que desejam revisitar conceitos já conhecidos.
-
 ### Java
 Java é uma linguagem de programação amplamente utilizada no mundo da computação. Aqui, também adicionamos soluções em Java para os problemas de lógica de programação. Java oferece recursos avançados e é amplamente empregado em desenvolvimento de aplicativos, tornando-o uma escolha valiosa para aprimorar suas habilidades de programação.
 
